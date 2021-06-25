@@ -31,3 +31,6 @@
 **(database)وقاعدة البيانات (html) للربط بين صفحة (Connection) وكتابة كود ال (php) الربط باستخدام صفحة** 
 
 **Linking using the (php) page and writing the (Connection) code to connect the (html) page and (database)**
+
+## 4.(database)لإستدعاء اخر قيمة ادخلت في ال (php) انشأت صفحة - create page(php) to call the last value entered in (database)
+
