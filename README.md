@@ -10,6 +10,8 @@
 
 ## 1.(html & css) انشاء صفحة - Create (html & css) page
 
-**(Forward, Left, Stop, Right, Backward) مكون من خمسة ازرار  (html) في البداية قمت بإنشاء صفحة**
+** مكون من خمسة ازرار  (html) في البداية قمت بإنشاء صفحة**
 
 **لاعطاء شكل جميل للصفحة وتنظيمها(css) واستخدمت**
+
+**In the beginning, you create a page (html) consisting of five buttons(Forward, Left, Right, Stop, Backward) and I used (css) to give a beautiful look to the page and organize**
