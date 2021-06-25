@@ -21,7 +21,8 @@
 * **(movement) قمت بانشاء قاعدة بيانات مكونة من جدول واحد**
 
 * **((id)primary key)مقسم الى ستة اعمدة ، خمسة للاتجاهات وواحد ك (movement)**
+ 
+* **I created a database consisting  one table (movement) .**
 * 
-* * **I created a database consisting  one table (movement) .**
-* * **(movement) It is divided into six columns, five for directions and one as ((id)primary key).**
+* **(movement) It is divided into six columns, five for directions and one as ((id)primary key).**
 
