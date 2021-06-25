@@ -32,7 +32,7 @@
 
 **Linking using the (php) page and writing the (Connection) code to connect the (html) page and (database)**
 
-## 4.(database)لإستدعاء اخر قيمة ادخلت في ال (php) انشأت صفحة - create page(php) to call the last value entered in (database)
+## 4.(database)لإستدعاء اخر قيمة ادخلت في ال (php) انشأت صفحة - Create page (php) to call the last value entered in (database)
 
 **وعرضها على الصفحة (database) لاستدعاء آخر قيمة تم إدخالها في (select_movement) باسم (php) قم بإنشاء صفحة**
 
