@@ -34,6 +34,6 @@
 
 ## 4.(database)لإستدعاء اخر قيمة ادخلت في ال (php) انشأت صفحة - create page(php) to call the last value entered in (database)
 
-**قم بإنشاء صفحة (php) باسم (select_movement) لاستدعاء آخر قيمة تم إدخالها في (قاعدة البيانات) وعرضها على الصفحة**
+**وعرضها على الصفحة (database) لاستدعاء آخر قيمة تم إدخالها في (select_movement) باسم (php) قم بإنشاء صفحة**
 
 **Create a page (php) named (select_movement) to call the last value entered in the (database) and display it on the page**
