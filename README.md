@@ -15,3 +15,7 @@
 **لاعطاء شكل جميل للصفحة وتنظيمها(css) واستخدمت**
 
 **In the beginning, you create a page (html) consisting of five buttons(Forward, Left, Right, Stop, Backward) and I used (css) to give a beautiful look to the page and organize**
+
+## 2.(database) انشاء قاعدة بيانات - Create a (database)
+
+* **(movement) مقسم الى ستة اعمدة ، خمسة للاتجاهات و واحد ك ((id)primary key)**
