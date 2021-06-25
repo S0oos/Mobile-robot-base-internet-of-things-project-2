@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Industrials Robot Arm</title>
+ 
+<meta charset="utf-8">
+<meta name= "description" content="Industrials Robot Arm" />
+<meta name="keywords" content="Robot Arm"/>
+<meta name= "author" content="Wael Ahmad Alghamdi" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+   
+
+<style>
+body {
+background-image: url(html_background_image.jpg);
+  font-size:30px;
+  color:white;
+}
+.box {
+width:700px;
+height:500px;
+margin:200px auto;
+position:relative;
+
+
+}
+
+.item1,.item2,.item3,.item4,.item5{
+width:200px;
+high:100px;
+border-radius: 15px;
+  font-size:30px;
+  font-family:"Raleway";
+  text-align:center;
+  color:black;
+}
+
+.item1{
+position:absolute;
+top:150px;
+left:250px;
+}
+.item2{
+position:absolute;
+top:250px;
+left:20px;
+}
+.item3{
+position:absolute;
+top:250px;
+left:250px;
+
+}
+.item4{
+position:absolute;
+top:250px;
+right:20px;
+}
+.item5{
+position:absolute;
+bottom:110px;
+left:250px;
+}
+
+
+</style>    
+</head>
+<body>
+<form method="post" action="connect.php">
+<div class="box">
+
+	
+	  <button type="submit" name="bt" value="f" class="item1">Forward </button> 
+   	  <button type="submit" name="bt" value="l" class="item2">Left </button> 
+	  <button type="submit" name="bt" value="s" class="item3">Stop</button> 
+	  <button type="submit" name="bt" value="r" class="item4">Right</button> 
+	  <button type="submit" name="bt" value="b" class="item5">Backward </button>
+
+  
+</div> 
+</form>
+	  
+
+
+
+
+</body>
+</html>
