@@ -26,3 +26,8 @@
  
 * **(movement) It is divided into six columns, five for directions and one as ((id)primary key).**
 
+## 3.(database)وقاعدة البيانات (html) الربط بين صفحة - Linking the (html) page to the (database)
+
+**(database)وقاعدة البيانات (html) للربط بين صفحة (Connection) وكتابة كود ال (php) الربط باستخدام صفحة** 
+
+**Linking using the (php) page and writing the (Connection) code to connect the (html) page and (database)**
